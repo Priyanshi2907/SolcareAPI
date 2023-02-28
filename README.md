@@ -1,2 +1,2 @@
-SolcareAPI is a project made for connecting the specialised doctors to the patient digitally .From booking the appointment to direct video conferencing with the patient
+Connect the doc is a project made for connecting the specialised doctors to the patient digitally across the world.From booking the appointment to direct video conferencing with the patient.No matter how far the patient is, through this project he can afford the best doctor for the treatment.just sitting at home
 In this the backened is done using python with django rest framework in which APIs are made to fetch the data from serverside and to show it on client side
